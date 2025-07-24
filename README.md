@@ -39,7 +39,7 @@ You can export the model in multiple formats, such as:
 ## 🖼️ Sample Output
 
 On testing with a 5-gallon image, the model predicted:
-
+![Model Prediction Sample](https://github.com/963n/TeachableMachine-Water-Classification/raw/main/TeachableMachine-output.png)
 -5Gallon: 100%
 -500ML: 0%
 
