@@ -40,8 +40,8 @@ You can export the model in multiple formats, such as:
 
 On testing with a 5-gallon image, the model predicted:
 
--5Gallon: 0.9973847
--500ML: 0.01%
+-5Gallon: 100%
+-500ML: 0%
 
 
 ---
